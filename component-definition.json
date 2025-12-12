@@ -169,7 +169,7 @@
                   "model": "quote",
                   "quote": "<p>Socho, Udoo! Aur Socho!</p>",
                   "author": "Aashish Dimri",
-                  "Position": "Developer"
+                  "position": "Developer"
                 }
               }
             }
