@@ -233,7 +233,7 @@
          "value": ""
        },
        {
-         "component": "text",
+         "component": "richtext",
          "valueType": "string",
          "name": "position",
          "label": "Position",
